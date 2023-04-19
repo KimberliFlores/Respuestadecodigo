@@ -1,0 +1,15 @@
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\bin\Debug\net6.0\Respuesta del codigo.exe
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\bin\Debug\net6.0\Respuesta del codigo.deps.json
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\bin\Debug\net6.0\Respuesta del codigo.runtimeconfig.json
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\bin\Debug\net6.0\Respuesta del codigo.dll
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\bin\Debug\net6.0\Respuesta del codigo.pdb
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.csproj.AssemblyReference.cache
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.AssemblyInfoInputs.cache
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.AssemblyInfo.cs
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.csproj.CoreCompileInputs.cache
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.dll
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\refint\Respuesta del codigo.dll
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.pdb
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\Respuesta del codigo.genruntimeconfig.cache
+C:\Users\50373\OneDrive\Escritorio\Respuesta del codigo\Respuesta del codigo\Respuesta del codigo\obj\Debug\net6.0\ref\Respuesta del codigo.dll
